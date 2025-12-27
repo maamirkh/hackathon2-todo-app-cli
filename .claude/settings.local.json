@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p src/models src/services src/cli tests/unit tests/integration tests/contract)"
+    ]
+  }
+}
