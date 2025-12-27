@@ -1,0 +1,10 @@
+[project]
+name = "todo-cli-app"
+version = "0.1.0"
+description = "A command-line todo application with in-memory storage"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+
+[project.scripts]
+todo = "main:main"
